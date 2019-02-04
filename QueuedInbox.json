@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Abongile",
+        "surname": "Tenza",
+        "ID": "9312240178087",
+        "address": "24 Plunkett Avenue",
+        "email": "abongiletenza@gmail.com",
+        "loanAmount": 500,
+        "status": "Pending"
+    },
+    {
+        "name": "Ayanda",
+        "surname": "Kolman",
+        "ID": "9204150178087",
+        "address": "24 Plunkett Avenue",
+        "email": "ayandakolman22@gmail.com",
+        "loanAmount": 1000,
+        "status": "Pending"
+    }
+]

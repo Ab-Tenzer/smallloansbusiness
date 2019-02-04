@@ -1,0 +1,36 @@
+{
+  "name": "smallloansbusiness",
+  "version": "1.0.0",
+  "description": "Small loans business system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js --exec babel-node --presets es2015,stage-2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ab-Tenzer/smallloansbusiness.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Abongile Tenza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ab-Tenzer/smallloansbusiness/issues"
+  },
+  "homepage": "https://github.com/Ab-Tenzer/smallloansbusiness#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "nodemon": "^1.18.9"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
